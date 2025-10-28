@@ -47,7 +47,6 @@
     "website": "introduction-to-computational-thinking"
   },
   "course_title": "Introduction to Computational Thinking",
-  "hide_download": true,
   "course_description": "This class uses revolutionary programmable interactivity to combine material from three fields -- Computer Science + Mathematics + Applications -- creating an engaging, efficient learning solution to prepare students to be sophisticated and intuitive thinkers, programmers, and solution providers for the modern interconnected online world.\n\nUpon completion, students are well trained to be scientific \u201ctrilinguals,\u201d seeing and experimenting with mathematics interactively as math is meant to be seen, and ready to participate and contribute to open source development of large projects and ecosystems.",
   "department_numbers": [
     "18",
@@ -63,7 +62,6 @@
     "content": "d196271c-f6f0-4b33-9b42-9a41ed884571",
     "website": "introduction-to-computational-thinking"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
